@@ -16,7 +16,7 @@ main(){
   
  Hasil Program
 
-Siapa Nama Kamu?? agum medisa;
-Hallo  agum medisa(~_~);
-Kamu suka siapa??? kamu;
+Siapa Nama Kamu?? agum medisa
+Hallo  agum medisa(~_~)
+Kamu suka siapa??? kamu
 hehe(-_-;) sebenarnya aku juga suka kamu, hehe;
